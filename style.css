@@ -23,7 +23,7 @@ header {
 
 nav {
     border-bottom: 3px solid rgb(51, 51, 50);
-    padding: 0px 100px 25px 95px;
+    padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
 }
